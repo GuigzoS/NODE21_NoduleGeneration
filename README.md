@@ -1,5 +1,5 @@
 # NODE21_NoduleGeneration
 
-Solution for NODE21 Challenge
+Solution for NODE21 Challenge - Generation track
 
-See comments in process.py
+Main algorithm in process.py (I detailed the comments :) )
